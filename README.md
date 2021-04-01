@@ -2,7 +2,7 @@
 
 It's quite frustrating to search a key word on Google Scholar and not know which papers are the seminal papers in the particular field. Also, Google scholar search is limited to the specific key words you put in. In my manual literature review process, I find myself clicking through the "cited by" articles, and finding out who has cited these. This code aims to automate the search for good papers and finding top 1-5 papers per year of a specific topic. 
 
-The goal is to not just aggregate results of the given search keyword but to also extend it to potentially related keyword searches to find seminal papers. For example, "object tracking" does not give me results for a seminal paper that is titled "Simple Online Realtime tracking". However if I simply search "tracking", the first result on google scholar returns "tracking hurricanes". 
+The goal of this is to not just aggregate results of the given search keyword but to also extend it to potentially related keyword searches to find seminal papers. For example, "object tracking" does not give me results for a seminal paper that is titled "Simple Online Realtime tracking". However if I simply search "tracking", the first result on google scholar returns "tracking hurricanes". 
 
 This code has been adapted from the [repository](https://github.com/WittmannF/sort-google-scholar) by WITTMANN, Fernando Marcos.  
 
